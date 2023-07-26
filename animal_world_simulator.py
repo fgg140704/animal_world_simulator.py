@@ -18,6 +18,7 @@ class Animal:
         else:
             return None
 
+
 class AnimalWorld:
     def __init__(self, num_animals):
         self.animals = []
